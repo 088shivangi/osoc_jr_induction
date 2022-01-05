@@ -1,0 +1,7 @@
+Created file in main branch 
+created same file in osoc branch 
+
+while merging the branch there is different content in the file.
+Resolving conflict by accepting the changes.
+
+Commiting the new changes.
