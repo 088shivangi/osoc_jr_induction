@@ -1,0 +1,36 @@
+commit d46f5d860ddb35b532acb9eccb028ccc9a3ddb99
+Author: Shivangi <shivangigatheliya2603@gmail.com>
+Date:   Wed Jan 5 18:11:35 2022 +0530
+
+    resolving conflict
+
+commit e88293be73dc546d80df73b16e71557020bcc487
+Merge: 6d86ecf 2366212
+Author: Shivangi <shivangigatheliya2603@gmail.com>
+Date:   Wed Jan 5 18:08:45 2022 +0530
+
+    resolving conflict
+
+commit 23662120bf1123e6820aa4c0926c1a1e62fbc6da
+Author: Shivangi <shivangigatheliya2603@gmail.com>
+Date:   Wed Jan 5 18:05:33 2022 +0530
+
+    adding file in osoc
+
+commit 6d86ecfbe41ebac61f271147c6bcd0e157b6ad76
+Author: Shivangi <shivangigatheliya2603@gmail.com>
+Date:   Wed Jan 5 18:03:30 2022 +0530
+
+    adding file in main
+
+commit 204e01731441acb9791e5055c317f9ca103a898e
+Author: Shivangi <shivangigatheliya2603@gmail.com>
+Date:   Wed Jan 5 17:41:27 2022 +0530
+
+    adding 10 commands
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
